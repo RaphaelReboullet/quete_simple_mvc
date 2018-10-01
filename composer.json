@@ -1,0 +1,16 @@
+{
+    "name": "raphael/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Raphael Reboullet",
+            "email": "raphaelreboullet@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
